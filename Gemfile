@@ -15,3 +15,4 @@ gem 'spring',        group: :development
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'sass', '~> 3.4.15'
 gem 'acts_as_votable', '~> 0.10.0'
+gem 'simple_form'
